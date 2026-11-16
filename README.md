@@ -27,4 +27,4 @@ A Java Swing desktop application (CGB1201 - Java Programming) that detects disas
 4. Check "3. Alerts" and "4. Resources", then click "Generate Final Report"
 
 ## Author
-Srinivas, Batch 10
+Sri Nivas, Batch 10
